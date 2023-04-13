@@ -1,0 +1,36 @@
+			*****************************************************
+			**                                                 **
+			**                L V S  R E P O R T               **
+			**                                                 **
+			*****************************************************
+
+
+Report File Name         : NOR.rep
+ERC Summary File         : NOR.sum
+LVS Comparison Report    : NOR.rep.cls
+LVS Softchk Report       : NOR.softchk
+Layout Name              : /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.gds ("NOR")
+User Name                : vamuppav
+Creation Time            : Sat Oct  9 17:04:40 2021
+Current directory        : /home/vamuppav/Documents/ECE637/NOR_pro637/temp
+PVS Version              : 19.12-s008 Mon Jan 13 18:07:50 PST 2020
+
+
+			*****************************************************
+			**                                                 **
+			**            D E V E X T  R E P O R T             **
+			**                                                 **
+			*****************************************************
+
+
+    LVS_SOFTCHK psubstrate -TYPE CONTACT   Total Result        0 (       0)
+    LVS_SOFTCHK nwell_conn -TYPE CONTACT   Total Result        0 (       0)
+    LVS_SOFTCHK Nburied -TYPE CONTACT   Total Result        0 (       0)
+
+Clean cell list (added by extraction report parser )
+ for cell "M1_PO_CDNS_1"
+ for cell "NOR"
+ for cell "nmos1v_CDNS_2"
+ for cell "nmos1v_CDNS_5"
+ for cell "pmos1v_CDNS_3"
+ for cell "pmos1v_CDNS_4"

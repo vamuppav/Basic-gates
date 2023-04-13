@@ -1,0 +1,61 @@
+"Cadence Directory" internal none /home/vamuppav/Documents/ECE637/.cadence/
+"Current Directory" internal none /home/vamuppav/Documents/ECE637
+"GUI Flow" internal none virtuoso6
+"GUI Preset" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/.preset.autosave
+"Job Signature" internal none IPVS_1633643931_14054
+"PVS Job Mode" internal none drc
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637
+"Technology Mapping File" internal none /CMC/kits/GPDK45/gpdk045_v_5_0/pvtech.lib
+"Technology Name" internal none "gpdk045_pvs"
+"Technology Rule File" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/.technology.rul
+"Technology RuleSet" internal none "default"
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvsgui
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633643934
+"Cell Tree" output text /home/vamuppav/Documents/ECE637/NOR_pro637/cell_tree.txt
+"Control File" input text /home/vamuppav/Documents/ECE637/NOR_pro637/pvsdrcctl
+"DFII version" internal none 6.1.8.0
+"Do not check rules files before run" internal none ENABLED
+"Input Layout" input none OA: NOR_pro637 NOR layout
+"Intermediate GDSII File" output none /home/vamuppav/Documents/ECE637/NOR_pro637/NOR.gds
+"Intermediate GDSII File creation Errors" output none /home/vamuppav/Documents/ECE637/NOR_pro637/PIPO1.LOG
+"Intermediate OASIS File creation Errors" output none /home/vamuppav/Documents/ECE637/NOR_pro637/PIPO1.LOG
+"Job Signature" internal none IPVS_1633643931_14054
+"Layout Cell Name" internal none NOR
+"Layout ConvertPin" internal text geometry
+"Layout GDSII" input none /home/vamuppav/Documents/ECE637/NOR_pro637/NOR.gds
+"Layout HierDepth" internal none 32
+"Layout Library Name" internal none NOR_pro637
+"Layout MaxVertices" internal none 2048
+"Layout NoConvertHalfWidthPath" input none nil
+"Layout ReplaceBusBitChar" input none nil
+"Layout Scale" internal none 0.0005
+"Layout TechLib" internal none gpdk045
+"Layout Top Cell" internal none NOR
+"Layout View Name" internal none layout
+"Output Layout Cellmap I" internal text /home/vamuppav/Documents/ECE637/NOR_pro637/lay_cellMap.txt
+"PIPO Log I" log text  /home/vamuppav/Documents/ECE637/NOR_pro637/PIPO1.LOG
+"PIPO Output I" internal text  /home/vamuppav/Documents/ECE637/NOR_pro637/PIPO1.OUT
+"PIPO Setup File I" internal text  /home/vamuppav/Documents/ECE637/NOR_pro637/pipo1.setup
+"PVS Job Log" log text /home/vamuppav/Documents/ECE637/NOR_pro637/pvsuidrc.log
+"PVS Job Mode" internal none drc
+"Rule File" input text /home/vamuppav/Documents/ECE637/NOR_pro637/.technology.rul
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvsvirt
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633643936
+"ASCII DRC Report Database" output rdb /home/vamuppav/Documents/ECE637/NOR_pro637/NOR.drc_errors.ascii
+"Cell Tree" output text /home/vamuppav/Documents/ECE637/NOR_pro637/cell_tree.txt
+"DRC Summary" output text /home/vamuppav/Documents/ECE637/NOR_pro637/NOR.sum
+"Layout GDSII" input none /home/vamuppav/Documents/ECE637/NOR_pro637/NOR.gds
+"PVS Job Mode" internal none drc
+"Report MaxResults" internal none 1000
+"Rule File" input text /home/vamuppav/Documents/ECE637/NOR_pro637/.technology.rul
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/
+"UI Data" internal none ENABLED
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvs
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633643936

@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Oct  9 19:17:20 2021 
+Best design point: 1
+Design specs: 
+	NAND_pro637:test_bench:1	corner	Nominal - 
+	tpLH		20.1p
+	tpHL		52.96p
+	AVG_power		3.579u
+Design parameters: 
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Sat Oct  9 19:17:29 2021 

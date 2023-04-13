@@ -1,0 +1,36 @@
+************************************************************************
+* auCdl Netlist:
+* 
+* Library Name:  NOR_pro637
+* Top Cell Name: NOR
+* View Name:     schematic
+* Netlisted on:  Oct  9 17:04:36 2021
+************************************************************************
+
+*.BIPOLAR
+*.RESI = 2000 
+*.RESVAL
+*.CAPVAL
+*.DIOPERI
+*.DIOAREA
+*.EQUATION
+*.SCALE METER
+*.MEGA
+.PARAM
+
+
+
+************************************************************************
+* Library Name: NOR_pro637
+* Cell Name:    NOR
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT NOR A B OUT VDD VSS
+*.PININFO A:I B:I OUT:O VDD:B VSS:B
+MPM1 OUT B net19 VDD g45p1svt m=1 l=45n w=240n
+MPM0 net19 A VDD VDD g45p1svt m=1 l=45n w=240n
+MNM1 OUT B VSS VSS g45n1svt m=1 l=45n w=120n
+MNM0 OUT A VSS VSS g45n1svt m=1 l=45n w=120n
+.ENDS
+

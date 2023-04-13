@@ -1,0 +1,20 @@
+//Revision 2
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config test_bench;
+design NAND_pro637.test_bench:schematic;
+liblist myLib;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice, dspf;
+stoplist spectre;
+
+
+inst (NAND_pro637.test_bench:schematic).I0 binding :av_extracted;
+
+
+endconfig

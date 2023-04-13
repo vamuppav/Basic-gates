@@ -1,0 +1,93 @@
+"Cadence Directory" internal none /home/vamuppav/Documents/ECE637/.cadence/
+"Current Directory" internal none /home/vamuppav/Documents/ECE637
+"GUI Flow" internal none virtuoso6
+"GUI Preset" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/.preset.autosave
+"Job Signature" internal none IPVS_1633813470_1245
+"PVS Job Mode" internal none lvs
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp
+"Technology Mapping File" internal none /CMC/kits/GPDK45/gpdk045_v_5_0/pvtech.lib
+"Technology Name" internal none "gpdk045_pvs"
+"Technology Rule File" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/.technology.rul
+"Technology RuleSet" internal none "default"
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvsgui
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633813472
+"CDL Out Display Pin Information" internal none ENABLED
+"CDL Out Stop List" internal text auCdl
+"CDL Out View List" internal text auCdl schematic
+"Control File" input text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/pvslvsctl
+"DFII version" internal none 6.1.8.0
+"Do not check rules files before run" internal none ENABLED
+"Extracted Spice File" output text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.spi
+"Input Layout" input none OA: NOR_pro637 NOR layout
+"Input Schematic" input none OA: NOR_pro637 NOR schematic
+"Intermediate GDSII File" output none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.gds
+"Intermediate GDSII File creation Errors" output none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/PIPO1.LOG
+"Intermediate OASIS File creation Errors" output none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/PIPO1.LOG
+"Layout Cell Name" internal none NOR
+"Layout ConvertPin" internal text geometryAndText
+"Layout GDSII" input none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.gds
+"Layout HierDepth" internal none 32
+"Layout Library Name" internal none NOR_pro637
+"Layout MaxVertices" internal none 2048
+"Layout NoConvertHalfWidthPath" input none nil
+"Layout ReplaceBusBitChar" input none nil
+"Layout Scale" internal none 0.0005
+"Layout TechLib" internal none gpdk045
+"Layout Top Cell" internal none NOR
+"Layout View Name" internal none layout
+"Output Layout Cellmap I" internal text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/lay_cellMap.txt
+"PIPO Log I" log text  /home/vamuppav/Documents/ECE637/NOR_pro637/temp/PIPO1.LOG
+"PIPO Output I" internal text  /home/vamuppav/Documents/ECE637/NOR_pro637/temp/PIPO1.OUT
+"PIPO Setup File I" internal text  /home/vamuppav/Documents/ECE637/NOR_pro637/temp/pipo1.setup
+"PVS Job Log" log text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/pvsuilvs.log
+"PVS Job Mode" internal none lvs
+"Quantus QRC Data" internal none ENABLED
+"Rule File" input text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/.technology.rul
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp
+"SI Log" log text  /home/vamuppav/Documents/ECE637/NOR_pro637/temp/SI.LOG
+"SI OSS Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/
+"SI Output" log text  /home/vamuppav/Documents/ECE637/NOR_pro637/temp/SI.OUT
+"SI Setup File" internal text  /home/vamuppav/Documents/ECE637/NOR_pro637/temp/si.env
+"Schematic Cell Name" internal none NOR
+"Schematic Library Name" internal none NOR_pro637
+"Schematic Netlist" output text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.cdl
+"Schematic Top Cell" internal none NOR
+"Schematic View Name" internal none schematic
+"Simulator Mode" internal none auCdl
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvsvirt
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633813479
+"Comparison Report" output cls /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.rep.cls
+"ERC Result" internal none EMPTY
+"ERC Summary" output text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.sum
+"Extracted Spice File" output text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.spi
+"Extraction Report" output erc /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.rep
+"Extraction Result" internal none CLEAN
+"LVS Report Options" internal none -none
+"Layout GDSII" input none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.gds
+"Layout Top Cell" internal none NOR
+"Mask SVDB Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/svdb
+"PVS Job Mode" internal none lvs
+"QRC Top Cell" internal none NOR
+"Report MaxResults" internal none 1000
+"Rule File" input text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/.technology.rul
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/
+"SCONNECT RDB" output rdb /home/vamuppav/Documents/ECE637/NOR_pro637/temp/NOR.softchk
+"Schematic Top Cell" internal none NOR
+"UI Data" internal none ENABLED
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvs
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633813479
+"Comparison Result" internal none MATCH
+"LVS Run Name" internal none NOR.rep
+"Run Directory" internal none /home/vamuppav/Documents/ECE637/NOR_pro637/temp/
+"Schematic Netlist" input text /home/vamuppav/Documents/ECE637/NOR_pro637/temp/netlist
+"UI Data" internal none ENABLED
+"PVS Version" internal none 19.12-s008
+"Binary Name" internal none pvsnvn
+"PVS Build Date" internal none "Mon Jan 13 18:07:50 PST 2020"
+"PVS Job Time" internal none 1633813483

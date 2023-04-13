@@ -1,0 +1,16 @@
+
+/CMC/tools/cadence/PVS19.12.000_lnx86/tools.lnx86/pvs/bin/64bit/edbToEcdb Output Summary
+========================================================================
+
+Delete EDB      : N
+EDB Library dir : NOR_13997.db
+ECDB dir        : ./
+Top Cell        : NOR
+CDL netlist     : /home/vamuppav/Documents/ECE637/NOR_pro637/temp/svdb/NOR.net
+Layer map file  : /home/vamuppav/Documents/ECE637/NOR_pro637/temp/svdb/NOR.ecdbmap
+Text map file   : /home/vamuppav/Documents/ECE637/NOR_pro637/temp/svdb/NOR.ports
+Dependency map  : NOR.lmap.perc
+Lvs file        : /home/vamuppav/Documents/ECE637/NOR_pro637/temp/svdb/NOR.lvsfile
+Float net file : .NOR.info.softchk
+debug           : 0
+Source Library  : NOR_13997
